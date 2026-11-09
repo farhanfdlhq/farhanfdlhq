@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Farhan Achmad Fadhillah
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:58a6ff&height=180&section=header&text=Farhan%20Achmad%20Fadhillah&fontSize=38&fontColor=ffffff&desc=UI%2FUX%20and%20Software%20Engineer&descAlignY=72&descSize=16" alt="Farhan Achmad Fadhillah, UI/UX and Software Engineer" width="100%" />
 
 <a href="https://farhanfdlhq.my.id">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=UI%2FUX+and+Software+Engineer;Laravel+%C2%B7+React+%C2%B7+Next.js;Information+Systems+graduate%2C+2026" alt="UI/UX and Software Engineer. Laravel, React, Next.js. Information Systems graduate, 2026." />
@@ -56,43 +56,11 @@ Most of my work is end-to-end web development with Laravel and React/Next.js. So
 
 ## Tech stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,go,dart,html,css,nextjs,react,tailwind,vite,flutter,laravel,prisma,mysql,firebase,nginx,cloudflare,vercel,git,postman,figma&perline=12" alt="TypeScript, JavaScript, PHP, Python, Go, Dart, HTML, CSS, Next.js, React, Tailwind CSS, Vite, Flutter, Laravel, Prisma, MySQL, Firebase, Nginx, Cloudflare, Vercel, Git, Postman, Figma" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend and mobile**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Backend and data**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-
-**Infrastructure and tools**
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">Also: React Native, Livewire, Jira</p>
 
 ## Public repositories
 
