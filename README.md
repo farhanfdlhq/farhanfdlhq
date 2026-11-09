@@ -99,9 +99,9 @@ Computer and Network Engineering (TKJ), 2020
 ## Contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man eating the squares of my contribution graph" src="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/pacman-contribution-graph-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/pacman-contribution-graph.svg?v=2" />
+  <img alt="Pac-Man eating the squares of my contribution graph" src="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/pacman-contribution-graph.svg?v=2" />
 </picture>
 
 ## Random quote and joke
