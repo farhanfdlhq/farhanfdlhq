@@ -72,5 +72,5 @@ The rest is in my [repositories](https://github.com/farhanfdlhq?tab=repositories
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://farhanfdlhq.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farhanfdlhq.my.id-0e75b6?style=for-the-badge)](https://farhanfdlhq.my.id)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhanfdlhq)
