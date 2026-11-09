@@ -96,13 +96,23 @@ Computer and Network Engineering (TKJ), 2020
 
 </div>
 
-## Contributions in 3D
+## Contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/profile-green-animate.svg" />
-  <img alt="My GitHub contribution calendar drawn as a 3D city, with language and activity stats" src="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating the squares of my contribution graph" src="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/pacman-contribution-graph.svg" />
 </picture>
+
+## Random quote and joke
+
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Random programming quote" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random programming joke" />
+</p>
 
 ## Contact
 
