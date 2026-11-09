@@ -128,12 +128,12 @@ Computer and Network Engineering (TKJ), 2020
 
 </div>
 
-## Contribution snake
+## Contributions in 3D
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/github-snake.svg" />
-  <img alt="A snake eating the squares of my contribution graph" src="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/profile-green-animate.svg" />
+  <img alt="My GitHub contribution calendar drawn as a 3D city, with language and activity stats" src="https://raw.githubusercontent.com/farhanfdlhq/farhanfdlhq/output/profile-green-animate.svg" />
 </picture>
 
 ## Contact
